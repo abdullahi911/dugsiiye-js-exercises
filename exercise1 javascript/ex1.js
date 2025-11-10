@@ -1,0 +1,17 @@
+let x = 7;
+let = y = 3;
+ console.log("Arthematic operations in javascript");
+console.log(" + sugayn");
+console.log(x + y);
+console.log(" - kalagoyn");
+console.log(x - y);
+console.log(" * iskudhufasho");
+console.log(x * y);
+console.log(" / isuqaybin");
+console.log(x / y);
+console.log(" % hadhaadi");
+console.log(x % y);
+console.log("++ kordhin");
+console.log(++x);
+console.log("-- dhimid");
+console.log(--y);
