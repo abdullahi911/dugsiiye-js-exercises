@@ -1,0 +1,1 @@
+kani ustaad waa exercise2 ee luuqada javascript mahadsanid
