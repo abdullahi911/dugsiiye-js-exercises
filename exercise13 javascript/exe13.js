@@ -1,5 +1,9 @@
 let i = 5;
-while(i = 0){
-  console.log("i: " + i);
+
+while(i > 0){
+
+ 
+  console.log("number: " + i);
   i--;
+
 };
