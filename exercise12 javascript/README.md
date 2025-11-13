@@ -1,0 +1,1 @@
+this is one of the exercises in javascript i hope i did it very well thank you  exercise 12
