@@ -1,0 +1,1 @@
+kani waa exercise 20aad ustaad waxaan xalay kamaqlayy ustaad sharafadiin js exercise waa 40 haday saatahay waxaan umalayn inaan exercise kalabadhay haday arintaas jirto hambalyo halay soodhaho 🎉🎉
