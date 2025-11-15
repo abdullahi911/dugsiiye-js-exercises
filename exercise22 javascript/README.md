@@ -1,0 +1,1 @@
+kani waa shaqadii 22aad ustaad waxaan ludaraya template literls oo anad exercise iiga dirin waxaan arajayn inaan saxanahay mahadsanid
