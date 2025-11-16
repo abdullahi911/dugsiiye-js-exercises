@@ -1,0 +1,20 @@
+{
+  "id":1,
+  "name":"abdullahi abdikarin",
+  "age":22,
+  "dugsiiye student":[
+    {
+      "id in dugsiiye":101,
+      "year":"2025",
+      "batch":3,
+      "his exercise teacher":"omartood"
+    },
+    {
+      "id in dugsiiye":102,
+      "year":"2025",
+      "batch":3,
+      "his exercise teacher":"mohamed"
+    }
+  ]
+
+}
