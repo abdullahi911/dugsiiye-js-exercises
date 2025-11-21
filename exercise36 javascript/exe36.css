@@ -1,0 +1,24 @@
+.colorplace{
+  border: 4px solid rgb(42, 255, 248);
+  height: 90px;
+  width: 90px;
+  margin-left: 45%;
+  
+
+}
+.reset{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(43, 226, 76);
+}
+#color{
+  padding-top: 1px;
+  border: 1cap;
+}
+body{
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  
+}
