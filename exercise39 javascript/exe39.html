@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Language Translator</title>
+
+ 
+  <link rel="stylesheet" href="exe39.css">
+</head>
+<body>
+
+<div class="whole">
+  <h1>Language Translator</h1>
+
+  <label>From:</label>
+  <div class="lang-box">
+    <div class="lang-selected" id="fromSelected">Auto Detect</div>
+    <div class="lang-dropdown hidden" id="fromDropdown">
+      <div class="lang-group">All languages</div>
+     
+    </div>
+  </div>
+
+  <label>To:</label>
+  <div class="lang-box">
+    <div class="lang-selected" id="toSelected">English</div>
+    <div class="lang-dropdown hidden" id="toDropdown">
+      <div class="lang-group">All languages</div>
+
+    </div>
+  </div>
+
+  <h3>Text to translate</h3>
+  <textarea id="inputText"></textarea placeholder="Enter text here...">
+
+  <button id="translateBtn">Translate</button placeholder="Translate">
+
+  <h3>Translated text</h3>
+  <textarea id="outputText" readonly></textarea>
+</div>
+
+<script src="exe39.js"></script>
+</body>
+</html>
